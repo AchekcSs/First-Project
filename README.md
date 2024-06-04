@@ -8,7 +8,7 @@
 
 ## About the Project
 
-Product is a multi-page site. Made exclusively in html and css. Purpose of creation: practice and covering the basics of the above topics.
+Product is a multi-page site. Made exclusively in html and css. There is also an adaptation for Google Pixel 2 XL (411 px). Purpose of creation: practice and covering the basics of the above topics.
 
 ## Built With
 
