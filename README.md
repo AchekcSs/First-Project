@@ -22,7 +22,7 @@ Source: https://www.figma.com/design/2ZrSruH2BmLyeTVkrgqiaU/MyProduct-(Community
 Design taken from the Figma Community. Edited and modified by me for easy development.
 Author of the original design - www.figma.com/@wahidari
 
-Contact
-@yakimov.anton2712@gmail.com
+Contact:
+yakimov.anton2712@gmail.com
 
 Project Link: https://github.com/AchekcSs/First-Project
